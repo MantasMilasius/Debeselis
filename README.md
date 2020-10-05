@@ -1,2 +1,2 @@
 # Debeselis
-Projektas valdyti kambario šviestuvą ir adresuojamą led juostą infraroaudonūjų pultelio pagalba
+Projektas valdyti kambario šviestuvą ir adresuojamą led juostą infraraudonojo pultelio pagalba
